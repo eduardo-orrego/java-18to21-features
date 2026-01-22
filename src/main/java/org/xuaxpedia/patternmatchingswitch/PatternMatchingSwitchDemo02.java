@@ -1,9 +1,8 @@
 package org.xuaxpedia.patternmatchingswitch;
 
-// Java 21 enhances pattern matching in switch, allowing the object type
-// to be inferred and its data to be extracted directly in the expression.
-// This simplifies the writing of complex cases with more expressive patterns,
-// improving code readability and maintainability.
+/*
+* Example demonstrating pattern matching in switch statements with enums.
+*/
 
 public class PatternMatchingSwitchDemo02 {
 
